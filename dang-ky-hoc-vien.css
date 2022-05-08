@@ -1,0 +1,35 @@
+body{
+    background-color: palegoldenrod;
+    text-align: left;
+    margin-top: 30px;
+}
+
+.th2{
+    background-color: lightgreen;
+    color: #0000FF;
+    font-size: large;
+}
+
+.ngaysinh{
+    color: darkblue;
+    text-align: left;
+}
+.diachi{
+    color: darkblue;
+}
+.name{
+    color: darkblue;
+}
+.gioitinh{
+    color: darkblue;
+}
+.lop{
+    color: darkblue;
+}
+.email{
+    color: darkblue;
+}
+.phone{
+    color: darkblue;
+}
+
